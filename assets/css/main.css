@@ -409,6 +409,14 @@ a:after {
     background: #ff7878;
 }
 
+.pricing-option li:hover {
+    background: gray;
+    color: white;
+}
+
+#dg table td, #dg table th {
+    border: 1px solid #000000;
+}
 
 #contactForm  {
     text-align: left;
